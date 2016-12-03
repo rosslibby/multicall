@@ -1,0 +1,14 @@
+{
+    "name": "rosslibby/multicall",
+    "description": "Call multiple people with 1 number",
+    "authors": [
+        {
+            "name": "Ross Libby",
+            "email": "rosslibby92@gmail.com"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "^5.4",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
